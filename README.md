@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BHOOMICA</h1>
-<h3 align="center">Hi ,I'm Bhoomica Gupta , a junior at Thapar Institute of Engineering and Technology(TIET). I am a FRONT-END DEVELOPER from India.Also, a management head of the fine arts and photography society</h3>
+<h3 align="center">Hi ,I'm Bhoomica Gupta , a junior at Thapar Institute of Engineering and Technology(TIET). I am a FRONT-END DEVELOPER from India.Also, a management head of the fine arts and photography society. I have completed level 1 of mental maths in 2015. I cleared FIT IN DEUTSCH 2 in 2016</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhoomi12345&label=Profile%20views&color=0e75b6&style=flat" alt="bhoomi12345" /> </p>
 
